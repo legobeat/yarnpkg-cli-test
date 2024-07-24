@@ -1,0 +1,4 @@
+{
+  "name": "yarnpkg-cli-test",
+  "packageManager": "yarn@4.2.2"
+}
