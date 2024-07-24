@@ -1,4 +1,10 @@
 {
   "name": "yarnpkg-cli-test",
-  "packageManager": "yarn@4.2.2"
+  "packageManager": "yarn@4.2.2",
+  "main": "index.js",
+  "dependencies": {
+    "@yarnpkg/cli": "4.3.1",
+    "@yarnpkg/core": "4.1.1",
+    "@yarnpkg/shell": "4.0.2"
+  }
 }
